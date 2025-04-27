@@ -1,0 +1,1 @@
+i, f = map(int, input().split())
